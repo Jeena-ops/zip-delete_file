@@ -1,0 +1,29 @@
+[
+  {
+    "original_path": "C:\\ccode\\project\\delete_file_regularly\\test_cleanup\\medium_file_1.doc",
+    "archive_path": "archived_files\\archived_files_20250725.zip",
+    "archive_internal_path": "ccode\\project\\delete_file_regularly\\test_cleanup\\medium_file_1.doc",
+    "original_size": 706,
+    "modified_time": "2025-07-10T15:59:49.723370",
+    "archived_time": "2025-07-25T16:00:35.524516",
+    "extracted": false
+  },
+  {
+    "original_path": "C:\\ccode\\project\\delete_file_regularly\\test_cleanup\\medium_file_2.xlsx",
+    "archive_path": "archived_files\\archived_files_20250725.zip",
+    "archive_internal_path": "ccode\\project\\delete_file_regularly\\test_cleanup\\medium_file_2.xlsx",
+    "original_size": 707,
+    "modified_time": "2025-07-07T15:59:49.723370",
+    "archived_time": "2025-07-25T16:00:35.540047",
+    "extracted": false
+  },
+  {
+    "original_path": "C:\\ccode\\project\\delete_file_regularly\\test_cleanup\\subfolder2\\medium_sub_file.txt",
+    "archive_path": "archived_files\\archived_files_20250725.zip",
+    "archive_internal_path": "ccode\\project\\delete_file_regularly\\test_cleanup\\subfolder2\\medium_sub_file.txt",
+    "original_size": 719,
+    "modified_time": "2025-07-13T15:59:49.723370",
+    "archived_time": "2025-07-25T16:00:35.573484",
+    "extracted": false
+  }
+]

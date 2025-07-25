@@ -1,0 +1,6 @@
+# 檔案自動清理工具 - 依賴套件清單
+# 執行以下命令安裝：pip install -r requirements.txt
+
+pystray>=0.19.5          # 系統托盤功能
+Pillow>=10.0.0           # 圖像處理（托盤圖示）
+schedule>=1.2.0          # 任務排程

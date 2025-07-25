@@ -1,0 +1,110 @@
+# Python 編譯文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 分發 / 打包
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller 打包文件
+*.manifest
+*.spec
+
+# 單元測試 / 覆蓋率報告
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# 環境變量
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE 設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系統文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 日誌文件
+*.log
+logs/
+*.log.*
+
+# 臨時文件
+temp/
+tmp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# 大型執行文件（可選擇是否上傳）
+# dist/*.exe
+# *.msi
+
+# 壓縮文件
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# 本地配置文件
+config.local.py
+settings.local.py
+.local
+
+# 數據庫文件
+*.db
+*.sqlite
+*.sqlite3
+
+# 快取文件
+.cache/
+*.cache
+
+# Windows 特定
+*.lnk
+desktop.ini
+
+# 回收站文件夾
+recycle_bin/
+Recycle.Bin/

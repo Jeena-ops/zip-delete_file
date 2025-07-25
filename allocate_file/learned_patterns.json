@@ -1,0 +1,85 @@
+{
+  "MIXED_MIXED_ALPHANUMERIC": {
+    "folder_structure": [
+      "合同",
+      "人事部"
+    ],
+    "examples": [
+      "合同_人事部_2025Q4.docx"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.325652"
+  },
+  "MIXED_MIXED_MIXED_YYYY": {
+    "folder_structure": [
+      "報告",
+      "年報",
+      "技術部"
+    ],
+    "examples": [
+      "報告_年報_技術部_2025.pdf"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.330639"
+  },
+  "MIXED_MIXED_MIXED_YYYYMM": {
+    "folder_structure": [
+      "報告",
+      "月報",
+      "財務部"
+    ],
+    "examples": [
+      "報告_月報_財務部_202501.xlsx"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.331636"
+  },
+  "MIXED_TEXT_MIXED_YYYY": {
+    "folder_structure": [
+      "客戶資料",
+      "VIP",
+      "台北"
+    ],
+    "examples": [
+      "客戶資料_VIP_台北_2025.xlsx"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.335237"
+  },
+  "MIXED_MIXED_MIXED_ALPHANUMERIC": {
+    "folder_structure": [
+      "專案",
+      "APP開發",
+      "測試"
+    ],
+    "examples": [
+      "專案_APP開發_測試_v2.pdf"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.338745"
+  },
+  "MIXED_MIXED_MIXED_YYYYMMDD": {
+    "folder_structure": [
+      "照片",
+      "會議",
+      "會議室A"
+    ],
+    "examples": [
+      "照片_會議_會議室A_20250125.jpg"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.346021"
+  },
+  "MIXED_MIXED_NUMBER_YYYYMMDD": {
+    "folder_structure": [
+      "發票",
+      "ABC公司",
+      "50000"
+    ],
+    "examples": [
+      "發票_ABC公司_50000_20250115.pdf"
+    ],
+    "count": 1,
+    "last_seen": "2025-07-25T15:14:50.350029"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "cleanup_paths": [],
+  "cleanup_days": 30,
+  "include_subfolders": true,
+  "auto_cleanup_enabled": false,
+  "cleanup_schedule": "daily",
+  "cleanup_time": "02:00",
+  "cleanup_mode": "archive",
+  "startup_minimized": true
+}
